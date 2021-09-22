@@ -9,6 +9,7 @@
 
 php artisan clear-compiled       // Remove the compiled class file
 php artisan down                 // Put the application into maintenance mode
+php artisan up                   // Bring the application out of maintenance mode
 php artisan dump-server          // Start the dump server to collect dump information.
 php artisan env                  // Display the current framework environment
 php artisan help                 // Displays help for a command
@@ -19,7 +20,7 @@ php artisan optimize             // Cache the framework bootstrap files
 php artisan preset               // Swap the front-end scaffolding for the application
 php artisan serve                // Serve the application on the PHP development server
 php artisan tinker               // Interact with your application
-php artisan up                   // Bring the application out of maintenance mode
+
 
 // APP.
 
